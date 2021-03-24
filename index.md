@@ -84,6 +84,7 @@ Signed,
 1. Alfred Neumayer (UBports developer)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
+1. Alper Cugun-Gscheidel
 1. Amelia Andersdotter (former Member of the European Parliament (Piratpartiet), hobby Arch and network scripting aficionado)
 1. Amin Mahmudian
 1. Amos `fasterthanlime` Wenger
@@ -125,101 +126,101 @@ Signed,
 1. Ara Pulido
 1. Aria Buckles
 1. Ariadne Conill (Alpine Developer, pkgconf)
-1. Ariela Wenner
-1. Arne Brasseur
-1. Artemis Tosini (NixOS contributor)
-1. Arthur Richards
-1. Artur Tamborski (former FSF member)
-1. Ashish Dixit
-1. Asta Halkjær From
-1. Asumu Takikawa
-1. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
-1. Aubrey Fletcher
-1. Aura Vulcano
-1. Avery "stars" M-W
-1. Bandie (Chaos Computer Club, pam_panic, former FSF member)
-1. Baptiste Fontaine
-1. Barret Rennie (Mozilla)
-1. Bastien Nocera (Former director, GNOME Foundation)
-1. Behdad Esfahbod (Former director / president, GNOME Foundation)
-1. Ben Cotton (Fedora Project contributor)
-1. Ben Evans
-1. Ben Ford (`@binford2k`)
-1. Ben Hilburn (former GNU Radio lead, current GA member)
-1. Ben Hutchings (Debian Developer)
-1. Benjamin De Kosnik
-1. Benjamin Elder (Kubernetes SIG Testing Chair)
-1. Benjamin Kampmann
-1. Benjamin Ragan-Kelley (Project Jupyter)
-1. Benjamin Torell (OBS Project)
-1. Ben Klemens
-1. Ben Lewis (Former GNU Octave contributor)
-1. Ben Nied
-1. Ben Rosengart
-1. Ben Werdmuller
-1. Bernhard Hayden
-1. Bert JW Regeer (`xistence`)
-1. Bert Van de Poel
-1. Be Wilson (Mixxx maintainer)
-1. Bill Mulligan
-1. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
-1. Björn Fahller
-1. Blair Vidakovich (vidak)
-1. Bob Killen (Kubernetes Steering Committee Member)
-1. Bram Hagens
-1. Brandon Butler
-1. Brendan Abolivier
-1. Brendan Hickey
-1. Brendan O'Leary
-1. Brennen Bearnes
-1. Brenton Cleeland
-1. Bret Moore
-1. Brett Sheffield (Librecast Project)
-1. Brian Chen (`betaveros`)
-1. Brian Dawn
-1. Brian Ketelsen
-1. Brian Pepple (Former Fedora Engineering Steering Committee member)
-1. Brion Vibber (MediaWiki, Wikimedia Foundation)
-1. Britta Gustafson
-1. Britt Yazel (Former GNOME Foundation Director)
-1. Bruno de Paula Kinoshita
-1. Bryan Bishop
+2. Ariela Wenner
+3. Arne Brasseur
+4. Artemis Tosini (NixOS contributor)
+5. Arthur Richards
+6. Artur Tamborski (former FSF member)
+7. Ashish Dixit
+8. Asta Halkjær From
+9. Asumu Takikawa
+10. Attila Pinter (aka adathor, openSUSE docs, support, OpenStorage.io CTO)
+11. Aubrey Fletcher
+12. Aura Vulcano
+13. Avery "stars" M-W
+14. Bandie (Chaos Computer Club, pam_panic, former FSF member)
+15. Baptiste Fontaine
+16. Barret Rennie (Mozilla)
+17. Bastien Nocera (Former director, GNOME Foundation)
+18. Behdad Esfahbod (Former director / president, GNOME Foundation)
+19. Ben Cotton (Fedora Project contributor)
+20. Ben Evans
+21. Ben Ford (`@binford2k`)
+22. Ben Hilburn (former GNU Radio lead, current GA member)
+23. Ben Hutchings (Debian Developer)
+24. Benjamin De Kosnik
+25. Benjamin Elder (Kubernetes SIG Testing Chair)
+26. Benjamin Kampmann
+27. Benjamin Ragan-Kelley (Project Jupyter)
+28. Benjamin Torell (OBS Project)
+29. Ben Klemens
+30. Ben Lewis (Former GNU Octave contributor)
+31. Ben Nied
+32. Ben Rosengart
+33. Ben Werdmuller
+34. Bernhard Hayden
+35. Bert JW Regeer (`xistence`)
+36. Bert Van de Poel
+37. Be Wilson (Mixxx maintainer)
+38. Bill Mulligan
+39. Bjoern Michaelsen (former the Document Foundation director, LibreOffice developer)
+40. Björn Fahller
+41. Blair Vidakovich (vidak)
+42. Bob Killen (Kubernetes Steering Committee Member)
+43. Bram Hagens
+44. Brandon Butler
+45. Brendan Abolivier
+46. Brendan Hickey
+47. Brendan O'Leary
+48. Brennen Bearnes
+49. Brenton Cleeland
+50. Bret Moore
+51. Brett Sheffield (Librecast Project)
+52. Brian Chen (`betaveros`)
+53. Brian Dawn
+54. Brian Ketelsen
+55. Brian Pepple (Former Fedora Engineering Steering Committee member)
+56. Brion Vibber (MediaWiki, Wikimedia Foundation)
+57. Britta Gustafson
+58. Britt Yazel (Former GNOME Foundation Director)
+59. Bruno de Paula Kinoshita
+60. Bryan Bishop
 1. Bryan Cantrill
 1. Bryan Meyers (Solus Technical Lead)
-1. Bryan Paget
-1. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
-1. Byron Lagrone
-1. Cadence Ember
-1. Caelan
-1. Caglar Koksal, Phd
+2. Bryan Paget
+3. Bryce Adelstein Lelbach aka wash (US Programming Language Standards Chair, ISO C++ Library Evolution Chair)
+4. Byron Lagrone
+5. Cadence Ember
+6. Caelan
+7. Caglar Koksal, Phd
 1. Cameron Cash (PizzaLovingNerd)
-1. Cameron Durham
-1. Cameron Tauxe
-1. Cam Tenny (Igalia)
-1. Cara Esten Hurtle
-1. Carina C. Zona (CallbackWomen)
+2. Cameron Durham
+3. Cameron Tauxe
+4. Cam Tenny (Igalia)
+5. Cara Esten Hurtle
+6. Carina C. Zona (CallbackWomen)
 1. Carlos Soriano Sanchez (Former GNOME Foundation director and Nautilus maintainer, GNOME GitLab admin)
-1. Carl Schwan (KDE)
+2. Carl Schwan (KDE)
 1. Carlton Whitehead
-1. Carol Willing
-1. Casper Sørensen
-1. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
-1. Cathy Warner
-1. Chad Booker
-1. Chandler Carruth
-1. Charles Burton
-1. Charlie Kravetz
-1. Charlotte Masterson (Hardware and R&D manager at Fivnex)
+2. Carol Willing
+3. Casper Sørensen
+4. Cassidy James Blaede (elementary co-founder, GNOME Foundation member)
+5. Cathy Warner
+6. Chad Booker
+7. Chandler Carruth
+8. Charles Burton
+9. Charlie Kravetz
+10. Charlotte Masterson (Hardware and R&D manager at Fivnex)
 1. Chris Adams (@acdha)
-1. Chris Burgess
-1. Chris Desnoyers
-1. Chris DiBona (Google LLC.)
-1. Chris Garaffa (Tech for the People)
-1. Chris Hoge
-1. Chris Johnson
-1. Chris Riley
-1. Chris Rose
-1. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
+2. Chris Burgess
+3. Chris Desnoyers
+4. Chris DiBona (Google LLC.)
+5. Chris Garaffa (Tech for the People)
+6. Chris Hoge
+7. Chris Johnson
+8. Chris Riley
+9. Chris Rose
+10. Chris Talib (Source! - a radio show on FLOSS, Le Reset - queer hackerspace)
 1. Christian Brauner (Linux Kernel Hacker, LXC maintainer)
 1. Christian Buhtz
 1. Christian Glombek (Fedora Project contributor)
@@ -441,7 +442,6 @@ Signed,
 1. Highlander Subaron (`HightechSec`)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
-1. Ian Stapleton Cordasco
 1. Idan Gazit (Django project alumnus)
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
@@ -632,7 +632,6 @@ Signed,
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
 1. Leo Famulari
-1. leo60228
 1. Liam R. Howlett (kernel developer)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
